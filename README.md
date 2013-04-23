@@ -1,3 +1,2 @@
-# learning d3
+# D3 and Parse Integration
 
-following [this tutorial](http://alignedleft.com/tutorials/d3/)
