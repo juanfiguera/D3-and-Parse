@@ -1,4 +1,4 @@
-// Parse.initialize("XmIF2JOLmB0gnodaXDCtvnW6lvtygILL6QBO9HDT","PrsblD5FQ2KaUEafqenwSUhBCfx88U9KsKJSZJZ6");
+// Parse.initialize("","");
 
 // var data = Parse.Object.extend("data");
 // var query = new Parse.Query(data);
